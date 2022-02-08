@@ -1,6 +1,6 @@
 <template>
   <div class="parent">
-    <div class="container-fluid">
+    <div class="container">
       <div class="row">
         <div class="col-lg-5">
           <div class="text-icon-cont">
@@ -59,6 +59,7 @@
 div.parent {
   margin-top: 160px;
   background-color: #fafafc;
+  padding-top:50px;
 }
 div.col-md-5 {
   padding: 50px 90px 50px 0;
